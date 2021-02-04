@@ -106,3 +106,15 @@
 
 .. _`sphinx gallery`: https://sphinx-gallery.github.io/stable/index.html
 .. _`sphinx RST reference`: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#inline-markup
+
+.. _`DESlib.doc`: https://deslib.readthedocs.io/en/latest/index.html
+.. _`OLA`: https://deslib.readthedocs.io/en/latest/modules/dcs/ola.html
+.. _`MCB`: https://deslib.readthedocs.io/en/latest/modules/dcs/mcb.html
+.. _`DES-P`: https://deslib.readthedocs.io/en/latest/modules/des/des_p.html
+.. _`METADES`: https://deslib.readthedocs.io/en/latest/modules/des/meta_des.html
+.. _`KNORA-U`: https://deslib.readthedocs.io/en/latest/modules/des/knora_u.html
+.. _`KNORA-E`: https://deslib.readthedocs.io/en/latest/modules/des/knora_e.html
+.. _`KNOP`: https://deslib.readthedocs.io/en/latest/modules/des/knop.html
+.. _`SingleBest`: https://deslib.readthedocs.io/en/latest/modules/static/single_best.html
+.. _`StaticSelection`: https://deslib.readthedocs.io/en/latest/modules/static/static_selection.html
+.. _`StackedClassifier`: https://deslib.readthedocs.io/en/latest/modules/static/stacked.html
