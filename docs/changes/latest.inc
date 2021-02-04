@@ -25,7 +25,7 @@ Enhancements
 
 - Update :mod:`.model_selection` and add capabilities to register searchers (by `Sami Hamdan`_).
 
-- Added documentation for dynamic selection methods (by `Tobias Muganga`_).
+- Add documentation for dynamic selection methods (by `Tobias Muganga`_).
 
 Bugs
 ~~~~

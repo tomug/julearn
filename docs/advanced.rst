@@ -58,8 +58,8 @@ documentation check `DESlib.doc`_.
 
 What is Dynamic Classifier Selection (DCS)?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-These implement techniques which only the base classifier with the highest 
-competence level for the classification of the query.
+These implement techniques which choose only the base classifier with the 
+highest competence level for the classification of the query.
 
 What is Dynamic Ensemble Selection (DES)?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
